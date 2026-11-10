@@ -1,0 +1,4 @@
+interface:
+  display_name: "BLUF Communication"
+  short_description: "Lead technical messages with the bottom line"
+  default_prompt: "Use $bluf-communication to rewrite this technical update so the outcome or requested action appears first, followed by the essential evidence and caveats."

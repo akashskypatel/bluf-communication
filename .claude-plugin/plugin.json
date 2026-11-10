@@ -1,0 +1,7 @@
+{
+  "name": "bluf-communication",
+  "description": "BLUF - Bottom Line Up Front communication templates and patterns",
+  "author": { "name": "akashskypatel" },
+  "repository": "https://github.com/akashskypatel/bluf-communication",
+  "license": "MIT"
+}

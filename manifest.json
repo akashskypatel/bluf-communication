@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "skill": "bluf-communication",
+  "files": [
+    {
+      "path": ".claude-plugin/marketplace.json",
+      "sha256": "803fcd5952c1ef069de027239f767d90681557558654ae806eba0ac5de700f9c",
+      "size_bytes": 248
+    },
+    {
+      "path": ".claude-plugin/plugin.json",
+      "sha256": "2499ba90c45c0dbfc1c27b10e8a871a4315123b19fe2da5e733d113e38f476c3",
+      "size_bytes": 251
+    },
+    {
+      "path": ".tools/regenerate_manifest.py",
+      "sha256": "080e3a925874d5d90ea26401ca87380300700291af74b35d95793267c8d53d36",
+      "size_bytes": 2630
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "beda2327660c422d2414185ae898e820442d68581e5ceda36924e29c65269762",
+      "size_bytes": 291
+    },
+    {
+      "path": "README.md",
+      "sha256": "c2eb65f3dffcd110d77acc1d436b4093fe1afea01c53e23f81b52644aa33b13c",
+      "size_bytes": 2871
+    },
+    {
+      "path": "references/examples.md",
+      "sha256": "4a2b7976bdced1e8fffa86ae19f00c86ff1cb4d10196c236956e73307cdafd43",
+      "size_bytes": 2866
+    },
+    {
+      "path": "references/usage-guidance.md",
+      "sha256": "7b9fc810950c2327b5bbe459cad74566fa791e553767c3a7a906dceb143258b7",
+      "size_bytes": 3236
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "c80cea48010ac95029733ab436be211a8a3ca8295139c56082ed9bbe0aa3ca52",
+      "size_bytes": 5042
+    },
+    {
+      "path": "templates/decision-request.md",
+      "sha256": "8c151e9a5709f1dbacaa6c40d7a794906db71a346f8296514b87d48ae1293295",
+      "size_bytes": 445
+    },
+    {
+      "path": "templates/engineering-handoff.md",
+      "sha256": "72674ca74412bca8cdb8a4288c7aee38c57802674626fe5485d21cca6028ec3b",
+      "size_bytes": 547
+    },
+    {
+      "path": "templates/incident-update.md",
+      "sha256": "690d1bd7f1f8d5b596460557cb12e2268da66bb56a4f38aadaddf9312956d4aa",
+      "size_bytes": 523
+    },
+    {
+      "path": "templates/quick-update.md",
+      "sha256": "7e6aefe93f21fa23d122d8a8de6deab2eb2a897803ad1484740ef37d181f88f2",
+      "size_bytes": 362
+    },
+    {
+      "path": "templates/review-finding.md",
+      "sha256": "ffcd8a79604fbe4c69aeb2ea57d22f636b19a2ea26e86a776f9c56dc2da76ba4",
+      "size_bytes": 545
+    }
+  ]
+}

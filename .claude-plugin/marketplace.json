@@ -1,0 +1,11 @@
+{
+  "name": "bluf-communication",
+  "description": "BLUF - Bottom Line Up Front communication templates and patterns",
+  "owner": { "name": "akashskypatel" },
+  "plugins": [
+    {
+      "name": "bluf-communication",
+      "source": "./"
+    }
+  ]
+}
